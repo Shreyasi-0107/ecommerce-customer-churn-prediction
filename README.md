@@ -10,7 +10,6 @@ The project predicts customer churn, explains the key behavioral factors behind 
 
 ### 🌐 Deployed Streamlit Application
 
-👉 **[Open the E-Commerce Customer Churn Prediction App](https://ecommerce-customer-churn-prediction-s0125.streamlit.app/)**
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-FF4B4B?logo=streamlit&logoColor=white)](https://ecommerce-customer-churn-prediction-s0125.streamlit.app/)
 
